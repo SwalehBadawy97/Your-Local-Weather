@@ -1,0 +1,55 @@
+h1{
+  text-align:center;
+  font-family:Indie Flower;
+  color:black;
+}
+  body {
+  background:url("https://thumbs.dreamstime.com/b/world-map-weather-forecast-vector-illustration-36632356.jpg");
+  color: #fff;
+}
+
+button {
+  background: transparent;
+  border: none;
+  color: #fff;
+  font-size: 32px;
+}
+
+:focus {outline:none;}
+::-moz-focus-inner {border:0;}
+
+.chip {
+  width: 500px;
+  background:#e3ffaf;
+  padding: 50px;
+  position: relative;
+  top: 80px;
+  margin: 0 auto;
+  border-radius: 20px;
+}
+
+.display-3,
+h3,
+h4,
+h6,
+button {
+  font-family: 'Indie Flower' ;
+  color:black;
+}
+
+#weather-icon,
+#btnFahrenheit {
+  color:black;
+}
+
+#description {
+  color:black;
+  position: relative;
+  top: -15px;
+  left: 20px;
+}
+
+#otherDetails {
+  margin-top: 20px;
+  color:black;
+}
